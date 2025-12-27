@@ -2,6 +2,8 @@ agent is replica of human in simple terms
 it has access to external world with memory
 - langchain
 
+Agents:
+------
 agent will be created with the help of the model with a query or prompt.
 - with the help of prompt you need to tell the behavior say researcher/guide/medical repo/doctor
 
@@ -13,7 +15,7 @@ langsmith -ops
 deepagent
 agent builder /beta/
 
-Crewai #2
+CrewAI #2
 --------------
 crewai - library maintined by crewai
 - build/create agent
