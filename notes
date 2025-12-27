@@ -1,0 +1,46 @@
+agent is replica of human in simple terms
+it has access to external world with memory
+- langchain
+
+agent will be created with the help of the model with a query or prompt.
+- with the help of prompt you need to tell the behavior say researcher/guide/medical repo/doctor
+
+langchain family
+-----------
+langchain
+langgraph
+langsmith -ops
+deepagent
+agent builder /beta/
+
+Crewai #2
+--------------
+crewai - library maintined by crewai
+- build/create agent
+- helps to create the agent in simplest mannerr
+- signin
+
+you can build agent with just drag and drop
+
+
+autogen studio - framework #3
+--------
+autogen studio from microsoft
+pip install autgen
+
+it runs on localhost:8080 
+
+- drag and drop the tools in it
+- 
+N8N - framework #4
+---------------
+n8n
+
+- nocode framwork
+- 
+
+openai agent builder - #5
+-------------------------- 
+- it was told that replacement of n8n, but that not hte case
+- you can do drag and droping the tools and configure the model and tools and query
+ not great as n8n
